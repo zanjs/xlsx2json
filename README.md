@@ -1,5 +1,8 @@
 xlsx2json
 =========
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/xlsx2json.svg)](https://greenkeeper.io/)
+
 [English Document](./docs/doc_en.md)
 
 ### 作用
